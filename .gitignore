@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+body_model.json
+*.csv
+.supabase/
